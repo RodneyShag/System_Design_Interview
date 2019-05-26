@@ -11,3 +11,8 @@
 |    15.4   | [Deadlock-Free Class](https://github.com/RodneyShag/System_Design/blob/master/Questions/Cracking%20the%20Coding%20Interview/Deadlock-Free%20Class.md)                                         | [Solution](https://github.com/RodneyShag/System_Design/blob/master/Solutions/Cracking%20the%20Coding%20Interview/Deadlock-Free%20Class.md)                         |   Medium   |
 |    15.5   | [Call in Order](https://github.com/RodneyShag/System_Design/blob/master/Questions/Cracking%20the%20Coding%20Interview/Call%20in%20Order.md)                                                   | [Solution](https://github.com/RodneyShag/System_Design/blob/master/Solutions/Cracking%20the%20Coding%20Interview/Call%20in%20Order.md)                             |   Medium   |
 |    15.6   | [Synchronized Methods](https://github.com/RodneyShag/System_Design/blob/master/Questions/Cracking%20the%20Coding%20Interview/Synchronized%20Methods.md)                                       | [Solution](https://github.com/RodneyShag/System_Design/blob/master/Solutions/Cracking%20the%20Coding%20Interview/Synchronized%20Methods.md)                        |    Easy    |
+
+### Other resources
+
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) - Cover the topics then dive into sample problems and their solutions.
+- [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512). $79 course that walks you through common system design problems.
