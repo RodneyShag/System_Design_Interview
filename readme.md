@@ -15,3 +15,4 @@
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Cover the topics then dive into sample problems and their solutions.
 - [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512). $79 course that walks you through common system design problems.
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) - look into this to see if it's good.
