@@ -11,6 +11,10 @@
 |    15.4   | [Deadlock-Free Class](https://github.com/RodneyShag/System_Design/blob/master/Questions/Cracking%20the%20Coding%20Interview/Deadlock-Free%20Class.md)                                         | [Solution](https://github.com/RodneyShag/System_Design/blob/master/Solutions/Cracking%20the%20Coding%20Interview/Deadlock-Free%20Class.md)                         |   Medium   |
 |    15.6   | [Synchronized Methods](https://github.com/RodneyShag/System_Design/blob/master/Questions/Cracking%20the%20Coding%20Interview/Synchronized%20Methods.md)                                       | [Solution](https://github.com/RodneyShag/System_Design/blob/master/Solutions/Cracking%20the%20Coding%20Interview/Synchronized%20Methods.md)                        |    Easy    |
 
+### Posts
+
+- [System Design post on LeetCode](https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedInGoogle)
+
 ### Other resources
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) - Cover the topics then dive into sample problems and their solutions.
