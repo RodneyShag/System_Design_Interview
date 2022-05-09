@@ -23,3 +23,4 @@
 - [LeetCode - System Design](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=hot&query=)
 - [YouTube - Tech Dummies (System Design Interview Prep)](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
 - [LeetCode Post with Resources](https://leetcode.com/discuss/career/216554/from-0-to-clearing-uberappleamazonlinedingoogle)
+- [Android System Design](https://www.facebook.com/careers/life/preparing-for-your-android-engineering-interview-at-facebook)
